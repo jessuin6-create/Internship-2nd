@@ -1,0 +1,5 @@
+file="/home/ubuntu/devops/bootload"
+backup="/home/ubuntu/devops/backup/"
+mkdir "/home/ubuntu/devops/backup/"
+cp "/home/ubuntu/devops/bootload" "/home/ubuntu/devops/backup/"
+echo "backup completed"
